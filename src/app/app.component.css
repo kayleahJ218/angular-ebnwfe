@@ -1,3 +1,30 @@
-p {
-  font-family: Lato;
+body {
+  background-color: hotpink;
 }
+h1 {
+  color: rgb(153, 153, 233);
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+p {
+  color: royalblue;
+  /* I love meditating */
+}
+/* This is what is best for you */ ::after
+#para1 {
+    text-align: center;
+    color: purple;
+}
+.center{
+  text-align: center;
+  color: green;
+}
+p.center {
+  text-align: center;
+  color: pink;
+
+}
+<p class:"center large"> This is me. </p>
